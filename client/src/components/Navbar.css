@@ -1,0 +1,16 @@
+.navbar {
+    background-color: var(--deep-plum);
+    color: #fff;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 1rem;
+  }
+  
